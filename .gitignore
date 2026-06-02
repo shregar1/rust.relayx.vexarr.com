@@ -1,0 +1,9 @@
+node_modules
+dist
+target
+.gocache
+*.class
+__pycache__
+*.pyc
+.env
+.DS_Store

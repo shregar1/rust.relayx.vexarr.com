@@ -1,0 +1,9 @@
+[package]
+name = "relayx"
+version = "0.1.0"
+edition = "2021"
+description = "Rust SDK types and request builder for the RelayX AI gateway"
+license = "Apache-2.0"
+authors = ["RelayX <support@relayx.vexarr.com>"]
+homepage = "https://relayx.vexarr.com"
+repository = "https://github.com/vexarr/relayx"
